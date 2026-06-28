@@ -4,34 +4,26 @@
     "app_version": "1.8",
     "force_update": false,
     "update_url": "",
-    
     "prices": {
       "price_10day": 9799,
-      "price_monthly": 19799,
-      "price_3month": 59799و
+      "price_monthly": 19799
     },
-    
     "bazaar_sku": {
       "10day": "sub10",
-      "monthly": "subsub",
-      "3month": "sub90"
+      "monthly": "subsub"
     },
-    
     "myket_sku": {
       "10day": "sub10",
-      "monthly": "sub",
-      "3month": "sub90"
+      "monthly": "sub"
     },
-    
     "features": {
       "max_file_size_mb": 5000,
       "chunk_seconds": 45,
       "trial_enabled": true
     },
-    
     "contact": {
       "bale_id": "@scicore_admin",
-      "support_hours": "۹ صبح تا ۱۰ شب"
+      "support_hours": "9 صبح تا 10 شب"
     }
   }
 }
