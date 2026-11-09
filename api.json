@@ -5,8 +5,8 @@
     "force_update": false,
     "update_url": "",
     "prices": {
-      "price_10day": 16990,
-      "price_monthly": 42990
+      "price_10day": 24900,
+      "price_monthly": 64900
     },
     "bazaar_sku": {
       "10day": "sub10",
